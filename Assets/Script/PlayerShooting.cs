@@ -72,7 +72,6 @@ public class PlayerShooting : MonoBehaviour {
 	void Skill(int index){
 		//If the skill is healing
 		if (index==2){
-			audioManager.PlaySound ("Skill2");
 			skillPf_heal = Instantiate(skill.getCurrentSkill(index), transform.position, transform.rotation) as GameObject;
 			GetComponent<PlayerController>().stats.curHealth += skillPf_heal.GetComponent<SkillScript> ().healPoint;
 			GetComponent<PlayerController>().statusIndicator.SetHealth (GetComponent<PlayerController>().stats.curHealth

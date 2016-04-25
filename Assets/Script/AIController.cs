@@ -58,7 +58,7 @@ public class AIController: MonoBehaviour
 			if (other.tag == "Bullet") {
 				float damage = other.gameObject.GetComponent<ProjectileScript> ().damage;
 				stats.curHealth -= damage;
-				//audioManager.PlaySound ("Hit");
+				audioManager.PlaySound ("Hit");
 				if (statusIndicator != null) {
 					statusIndicator.SetHealth (stats.curHealth, stats.maxHealth);
 				}
@@ -89,7 +89,7 @@ public class AIController: MonoBehaviour
 
 					stats.curHealth -= damage;
 					skillCD = Time.time + _cd;
-					//audioManager.PlaySound ("Hit");
+					audioManager.PlaySound ("Hit");
 					if (statusIndicator != null) {
 						statusIndicator.SetHealth (stats.curHealth, stats.maxHealth);
 					}
@@ -106,7 +106,7 @@ public class AIController: MonoBehaviour
 			if (dropChance >= dropRate) {
 				Instantiate (healthPrefab, gameObject.transform.position, Quaternion.identity);
 			}
-			//audioManager.PlaySound ("Die");
+			audioManager.PlaySound ("Die");
 			Debug.Log ("Monster died");
 			Destroy (gameObject);
 		}

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: d46e6ff03ccbd6b4d9bcf08b6ba03a2e
+timeCreated: 1459154301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nerdlaptop_0
+    21300002: nerdlaptop_1
+    21300004: nerdlaptop_2
+    21300006: nerdlaptop_3
+    21300008: nerdlaptop_4
+    21300010: nerdlaptop_5
+    21300012: nerdlaptop_6
+    21300014: nerdlaptop_7
+    21300016: nerdlaptop_8
+    21300018: nerdlaptop_9
+    21300020: nerdlaptop_10
+    21300022: nerdlaptop_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nerdlaptop_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 315
+        width: 66
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3771294, y: 0.5389589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.890541, y: -26.343994}
+        - {x: -14.890541, y: -39.343994}
+        - {x: 41.10946, y: -39.343994}
+        - {x: 41.10946, y: 33.656006}
+        - {x: -23.890541, y: 33.656006}
+        - {x: -24.890541, y: 29.656006}
+    - name: nerdlaptop_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 315
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3814911, y: 0.56067866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.704376, y: 30.313171}
+        - {x: -25.704376, y: 20.313171}
+        - {x: -26.704376, y: 17.313171}
+        - {x: -26.704376, y: -34.68683}
+        - {x: -19.704376, y: -38.68683}
+        - {x: 43.295624, y: -38.68683}
+        - {x: 43.295624, y: -0.6868286}
+        - {x: 17.295624, y: 30.313171}
+    - name: nerdlaptop_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 316
+        width: 76
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3550969, y: 0.5278773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.987366, y: 34.937073}
+        - {x: -26.987366, y: 27.937073}
+        - {x: -26.987366, y: -33.062927}
+        - {x: -16.987366, y: -39.062927}
+        - {x: 45.012634, y: -39.062927}
+        - {x: 49.012634, y: -30.062927}
+        - {x: 49.012634, y: 0.93707275}
+        - {x: 34.012634, y: 34.937073}
+    - name: nerdlaptop_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 218
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.41559416, y: 0.5157153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.766838, y: 35.837067}
+        - {x: -25.766838, y: 33.837067}
+        - {x: -25.766838, y: -28.162933}
+        - {x: -24.766838, y: -35.162933}
+        - {x: -21.766838, y: -38.162933}
+        - {x: 36.233162, y: -38.162933}
+        - {x: 36.233162, y: 0.83706665}
+        - {x: 21.233162, y: 35.837067}
+    - name: nerdlaptop_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 217
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5355997, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.244385, y: 35.49997}
+        - {x: -26.244385, y: 32.49997}
+        - {x: -26.244385, y: -17.50003}
+        - {x: -22.244385, y: -35.50003}
+        - {x: 22.755615, y: -35.50003}
+        - {x: 22.755615, y: 24.49997}
+        - {x: 12.755615, y: 35.49997}
+    - name: nerdlaptop_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 62
+        height: 74
+      alignment: 9
+      pivot: {x: 0.42497253, y: 0.5235736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.651703, y: 34.255554}
+        - {x: 19.651703, y: 35.255554}
+        - {x: -23.348297, y: 35.255554}
+        - {x: -26.348297, y: 31.255554}
+        - {x: -26.348297, y: -38.744446}
+        - {x: 16.651703, y: -38.744446}
+        - {x: 35.651703, y: -28.744446}
+        - {x: 35.651703, y: -10.744446}
+    - name: nerdlaptop_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 122
+        width: 59
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5591314, y: 0.51615185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.98875, y: 34.837067}
+        - {x: -32.98875, y: 10.837067}
+        - {x: -32.98875, y: -29.162933}
+        - {x: -15.98875, y: -37.162933}
+        - {x: 13.01125, y: -37.162933}
+        - {x: 26.01125, y: -29.162933}
+        - {x: 26.01125, y: 28.837067}
+        - {x: 17.01125, y: 34.837067}
+    - name: nerdlaptop_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 122
+        width: 62
+        height: 68
+      alignment: 9
+      pivot: {x: 0.60316247, y: 0.49144968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.396072, y: 34.58142}
+        - {x: -37.396072, y: 10.581421}
+        - {x: -37.396072, y: -27.41858}
+        - {x: -35.396072, y: -33.41858}
+        - {x: 24.603928, y: -33.41858}
+        - {x: 24.603928, y: 30.58142}
+        - {x: 23.603928, y: 34.58142}
+    - name: nerdlaptop_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 122
+        width: 61
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5667244, y: 0.53143126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.57019, y: 34.674088}
+        - {x: -34.57019, y: 11.674088}
+        - {x: -34.57019, y: -33.325912}
+        - {x: -25.57019, y: -39.325912}
+        - {x: 16.42981, y: -39.325912}
+        - {x: 26.42981, y: -33.325912}
+        - {x: 26.42981, y: 25.674088}
+        - {x: 23.42981, y: 34.674088}
+    - name: nerdlaptop_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 47
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.53928804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.499985, y: 34.092686}
+        - {x: -23.499985, y: -35.907314}
+        - {x: -20.499985, y: -39.907314}
+        - {x: 21.500015, y: -39.907314}
+        - {x: 23.500015, y: -37.907314}
+        - {x: 23.500015, y: 34.092686}
+    - name: nerdlaptop_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 46
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.5332267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.000008, y: 32.67413}
+        - {x: -17.999992, y: 32.67413}
+        - {x: -22.999992, y: 26.67413}
+        - {x: -22.999992, y: -36.32587}
+        - {x: -19.999992, y: -37.32587}
+        - {x: 15.000008, y: -37.32587}
+        - {x: 21.000008, y: -29.32587}
+        - {x: 23.000008, y: -13.3258705}
+        - {x: 23.000008, y: 26.67413}
+    - name: nerdlaptop_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 24
+        width: 48
+        height: 74
+      alignment: 9
+      pivot: {x: 0.52422714, y: 0.5314304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.837097, y: 34.67415}
+        - {x: -25.162903, y: 34.67415}
+        - {x: -25.162903, y: -39.32585}
+        - {x: 18.837097, y: -39.32585}
+        - {x: 21.837097, y: -37.32585}
+        - {x: 22.837097, y: -22.325851}
+        - {x: 22.837097, y: 27.674149}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

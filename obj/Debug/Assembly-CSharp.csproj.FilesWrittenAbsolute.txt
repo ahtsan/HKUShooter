@@ -1,0 +1,17 @@
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/UnityEngine.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/UnityEditor.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ahtsan/Documents/4.3gpa/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ahtsan/Documents/4.3gpa/obj/Debug/Assembly-CSharp.dll
+/Users/ahtsan/Documents/4.3gpa/obj/Debug/Assembly-CSharp.dll.mdb

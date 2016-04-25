@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 7817da8c0940f2d47b6130477b33cf96
+timeCreated: 1459097537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bullet_0
+    21300002: bullet_1
+    21300004: bullet_2
+    21300006: bullet_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bullet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 20.5}
+        - {x: -29, y: -20.5}
+        - {x: 28, y: -20.5}
+        - {x: 29, y: -19.5}
+        - {x: 29, y: 20.5}
+    - name: bullet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 27.5}
+        - {x: -38.5, y: 19.5}
+        - {x: -38.5, y: -26.5}
+        - {x: -35.5, y: -27.5}
+        - {x: 35.5, y: -27.5}
+        - {x: 38.5, y: -23.5}
+        - {x: 38.5, y: 25.5}
+        - {x: 29.5, y: 27.5}
+    - name: bullet_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 34}
+        - {x: -47.5, y: 27}
+        - {x: -47.5, y: -18}
+        - {x: -45.5, y: -27}
+        - {x: -32.5, y: -34}
+        - {x: 42.5, y: -34}
+        - {x: 47.5, y: -17}
+        - {x: 47.5, y: 24}
+        - {x: 39.5, y: 34}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 28579a0a08ebd436d932a4a1aa554195
+timeCreated: 1459063799
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nerdyguy_0
+    21300002: nerdyguy_1
+    21300004: nerdyguy_2
+    21300006: nerdyguy_3
+    21300008: nerdyguy_4
+    21300010: nerdyguy_5
+    21300012: nerdyguy_6
+    21300014: nerdyguy_7
+    21300016: nerdyguy_8
+    21300018: nerdyguy_9
+    21300020: nerdyguy_10
+    21300022: nerdyguy_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nerdyguy_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 36}
+        - {x: -25, y: 34}
+        - {x: -25, y: -31}
+        - {x: -19, y: -36}
+        - {x: 19, y: -36}
+        - {x: 25, y: -30}
+        - {x: 25, y: 32}
+        - {x: 22, y: 36}
+    - name: nerdyguy_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 292
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 34}
+        - {x: -25, y: 32}
+        - {x: -25, y: -31}
+        - {x: -22, y: -34}
+        - {x: 25, y: -34}
+        - {x: 25, y: 34}
+    - name: nerdyguy_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 292
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 37}
+        - {x: -19, y: 37}
+        - {x: -26, y: 35}
+        - {x: -26, y: -26}
+        - {x: -6, y: -37}
+        - {x: 15, y: -37}
+        - {x: 26, y: -18}
+        - {x: 26, y: 28}
+    - name: nerdyguy_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 37}
+        - {x: -23, y: 32}
+        - {x: -23, y: -18}
+        - {x: -22, y: -34}
+        - {x: -19, y: -37}
+        - {x: 23, y: -37}
+        - {x: 23, y: 37}
+    - name: nerdyguy_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35}
+        - {x: -23, y: 29}
+        - {x: -23, y: -19}
+        - {x: -14, y: -34}
+        - {x: -10, y: -35}
+        - {x: 19, y: -35}
+        - {x: 23, y: -28}
+        - {x: 23, y: 30}
+        - {x: 22, y: 35}
+    - name: nerdyguy_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 194
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 37}
+        - {x: -23, y: 31}
+        - {x: -23, y: -37}
+        - {x: 21, y: -37}
+        - {x: 23, y: -34}
+        - {x: 23, y: 37}
+    - name: nerdyguy_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 98
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 36}
+        - {x: -25, y: -31}
+        - {x: -24, y: -36}
+        - {x: 9, y: -36}
+        - {x: 25, y: -28}
+        - {x: 25, y: 32}
+        - {x: 22, y: 36}
+    - name: nerdyguy_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 34}
+        - {x: -25, y: 32}
+        - {x: -25, y: -31}
+        - {x: -21, y: -34}
+        - {x: 25, y: -34}
+        - {x: 25, y: 34}
+    - name: nerdyguy_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 98
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 37}
+        - {x: -26, y: 35}
+        - {x: -26, y: -27}
+        - {x: -8, y: -37}
+        - {x: 26, y: -37}
+        - {x: 26, y: 37}
+    - name: nerdyguy_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 37}
+        - {x: -23, y: 36}
+        - {x: -23, y: -33}
+        - {x: -20, y: -37}
+        - {x: 22, y: -37}
+        - {x: 23, y: -27}
+        - {x: 23, y: 37}
+    - name: nerdyguy_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 35}
+        - {x: -22, y: 35}
+        - {x: -23, y: 29}
+        - {x: -23, y: -20}
+        - {x: -11, y: -35}
+        - {x: 6, y: -35}
+        - {x: 18, y: -27}
+        - {x: 23, y: -5}
+        - {x: 23, y: 31}
+    - name: nerdyguy_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 37}
+        - {x: -18, y: 37}
+        - {x: -23, y: 33}
+        - {x: -23, y: -34}
+        - {x: -5, y: -37}
+        - {x: 18, y: -37}
+        - {x: 21, y: -34}
+        - {x: 23, y: -29}
+        - {x: 23, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

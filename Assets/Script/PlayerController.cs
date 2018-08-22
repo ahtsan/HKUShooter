@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
 	}
 
 	void OnUpgradeMenuToggle(bool active) {
-		GetComponent<PlayerShooting> ().enabled = !active;
+		GetComponent<PlayerAttacking> ().enabled = !active;
 		upgradeMenuOpened = active;
 	}
 
